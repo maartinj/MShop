@@ -16,5 +16,5 @@ Shop application developed in SwiftUI framework.
 <br>
 
 <p align="center">
-  <img src="https://github.com/maartinj/MShop/blob/main/mshopPresentationf.gif" height="600" />
+  <img src="https://github.com/maartinj/MShop/blob/main/mshopPresentationf.gif" height="600" width="300" />
 </p>
